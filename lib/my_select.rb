@@ -6,6 +6,6 @@ def my_select(collection)
  newarr << collection[i]
  end
  i += 1 
- 
+ end
  newarr
  end
